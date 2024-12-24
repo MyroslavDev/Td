@@ -1,0 +1,20 @@
+# Unity specific
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+Packages/com.unity.package-manager-diagnostics/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
